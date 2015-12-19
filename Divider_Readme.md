@@ -1,4 +1,4 @@
-#Sentence Divider
+###Sentence Divider
 ####Weicheng Ma
 ========================================================================================================================
 
@@ -11,10 +11,8 @@
 
 ######Introduction
 ------------------------------------------------------------------------------------------------------------------------
-- To run the program, simply type the instruction
-- &gt; python Word_Divider.py 
-- You will see instructions asking for user input,
-- which being the sentence to divide.
+- To run the program, simply type the instruction `python Word_Divider.py`
+- You will see instructions asking for user input, which being the sentence to divide.
 - In order to exit, type EXIT(Capitalized).
 
 
